@@ -2,5 +2,8 @@
 
 Back-End Developer 
 
-_Currently work on a personal project, a liquid democracy website for little organizations on Django_
+
+Go to one mouth of trip in Benin.
+
+
 
